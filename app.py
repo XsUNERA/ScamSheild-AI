@@ -108,7 +108,7 @@ with st.sidebar:
     st.markdown("""
     ### ⚡ Engine Specs
     - **Provider:** Groq LPU Accelerator
-    - **Model:** `llama-3.3-70b-versatile`
+    - **Model:** `openai/gpt-oss-20b`
     - **Response Time:** Sub-second execution
     """)
 
